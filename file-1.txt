@@ -2,3 +2,5 @@
 
 - Các bạn có thể sẽ bất ngờ về việc tại sao tôi thực hiện cái project này. Thực
 ra cũng khá đơn giản là để kiểm tra xem tác dụng của cái rebase như thế nào thôi.
+
+- Tôi sẽ viết dòng tiếp theo nhé. Để commit lại đã.
