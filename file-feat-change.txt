@@ -1,2 +1,4 @@
 This is second text file (create from branch feat/change-txt)
 Now I will do the rebase
+
+- Yep, như trên đã nói, đây là file text thứ 2 (nhằm tạo ra thêm cái để merge cho dễ ấy mà:))
