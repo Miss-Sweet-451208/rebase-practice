@@ -4,3 +4,5 @@
 ra cũng khá đơn giản là để kiểm tra xem tác dụng của cái rebase như thế nào thôi.
 
 - Tôi sẽ viết dòng tiếp theo nhé. Để commit lại đã.
+
+- Hôm nay là ngày 11-2
