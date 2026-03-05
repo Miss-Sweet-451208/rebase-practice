@@ -7,3 +7,5 @@ ra cũng khá đơn giản là để kiểm tra xem tác dụng của cái rebas
 
 - Hôm nay là ngày 11-2, và bây giờ là 2 giờ 30 phút sáng. Tôi đang tìm hiểu về rebase và nó
 khó cực kỳ luôn. Bạn có thể thấy rõ sự bất lực của tôi mà.
+
+- Đây là ghi chú lần tiếp theo về việc rebase
